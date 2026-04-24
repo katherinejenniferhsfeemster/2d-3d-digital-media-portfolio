@@ -2,6 +2,8 @@
 
 **Katherine Feemster** · 2D & 3D Digital Media Specialist
 
+[🌐 **Live portfolio site**](https://katherinejenniferhsfeemster.github.io/2d-3d-digital-media-portfolio/) · [GitHub repo](https://github.com/katherinejenniferhsfeemster/2d-3d-digital-media-portfolio)
+
 Tool-agnostic, code-first digital media for an AI research program. Every asset
 in this repo — 64 segmentation tiles, 24 pictograms, 12 painted scenes, 32
 animated sprites, 48 rendered 3D frames, and the Godot viewer that loads them
