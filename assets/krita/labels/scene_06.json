@@ -1,0 +1,37 @@
+{
+  "scene": "scene_06",
+  "annotations": [
+    {
+      "class": "creatureA",
+      "bbox": [
+        66,
+        190,
+        60,
+        48
+      ],
+      "mask_value": 64
+    },
+    {
+      "class": "creatureB",
+      "bbox": [
+        223,
+        184,
+        60,
+        48
+      ],
+      "mask_value": 128
+    },
+    {
+      "class": "creatureC",
+      "bbox": [
+        385,
+        191,
+        60,
+        48
+      ],
+      "mask_value": 192
+    }
+  ],
+  "image": "renders/scene_06.png",
+  "mask": "masks/scene_06_mask.png"
+}

@@ -1,0 +1,2927 @@
+{
+  "tiles": [
+    {
+      "image": "tiles/tile_000.png",
+      "mask": "masks/tile_000.png",
+      "bboxes": [
+        {
+          "x": 120,
+          "y": 211,
+          "w": 35,
+          "h": 35,
+          "label": "building"
+        },
+        {
+          "x": 151,
+          "y": 117,
+          "w": 32,
+          "h": 19,
+          "label": "building"
+        },
+        {
+          "x": 66,
+          "y": 110,
+          "w": 26,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 212,
+          "y": 212,
+          "w": 32,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 78,
+          "y": 64,
+          "w": 26,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 168,
+          "y": 214,
+          "w": 23,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 123,
+          "y": 213,
+          "w": 22,
+          "h": 31,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_001.png",
+      "mask": "masks/tile_001.png",
+      "bboxes": [
+        {
+          "x": 115,
+          "y": 17,
+          "w": 18,
+          "h": 19,
+          "label": "building"
+        },
+        {
+          "x": 138,
+          "y": 127,
+          "w": 21,
+          "h": 25,
+          "label": "building"
+        },
+        {
+          "x": 190,
+          "y": 205,
+          "w": 34,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 177,
+          "y": 159,
+          "w": 30,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 111,
+          "y": 39,
+          "w": 27,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 82,
+          "y": 97,
+          "w": 29,
+          "h": 26,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_002.png",
+      "mask": "masks/tile_002.png",
+      "bboxes": [
+        {
+          "x": 219,
+          "y": 179,
+          "w": 32,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 103,
+          "y": 141,
+          "w": 27,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 195,
+          "y": 5,
+          "w": 30,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 220,
+          "y": 196,
+          "w": 27,
+          "h": 28,
+          "label": "building"
+        },
+        {
+          "x": 189,
+          "y": 212,
+          "w": 26,
+          "h": 22,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_003.png",
+      "mask": "masks/tile_003.png",
+      "bboxes": [
+        {
+          "x": 30,
+          "y": 114,
+          "w": 19,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 227,
+          "y": 161,
+          "w": 21,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 62,
+          "y": 135,
+          "w": 27,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 5,
+          "y": 196,
+          "w": 21,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 183,
+          "y": 202,
+          "w": 24,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 108,
+          "y": 186,
+          "w": 30,
+          "h": 27,
+          "label": "building"
+        },
+        {
+          "x": 190,
+          "y": 56,
+          "w": 25,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 29,
+          "y": 99,
+          "w": 29,
+          "h": 24,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_004.png",
+      "mask": "masks/tile_004.png",
+      "bboxes": [
+        {
+          "x": 69,
+          "y": 191,
+          "w": 32,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 158,
+          "y": 23,
+          "w": 33,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 109,
+          "y": 39,
+          "w": 19,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 233,
+          "y": 59,
+          "w": 18,
+          "h": 25,
+          "label": "building"
+        },
+        {
+          "x": 77,
+          "y": 55,
+          "w": 30,
+          "h": 33,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_005.png",
+      "mask": "masks/tile_005.png",
+      "bboxes": [
+        {
+          "x": 71,
+          "y": 42,
+          "w": 31,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 188,
+          "y": 44,
+          "w": 34,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 63,
+          "y": 145,
+          "w": 32,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 118,
+          "y": 88,
+          "w": 36,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 185,
+          "y": 79,
+          "w": 20,
+          "h": 19,
+          "label": "building"
+        },
+        {
+          "x": 104,
+          "y": 75,
+          "w": 34,
+          "h": 22,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_006.png",
+      "mask": "masks/tile_006.png",
+      "bboxes": [
+        {
+          "x": 115,
+          "y": 57,
+          "w": 24,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 94,
+          "y": 152,
+          "w": 26,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 98,
+          "y": 175,
+          "w": 30,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 117,
+          "y": 167,
+          "w": 26,
+          "h": 23,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_007.png",
+      "mask": "masks/tile_007.png",
+      "bboxes": [
+        {
+          "x": 197,
+          "y": 216,
+          "w": 29,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 182,
+          "y": 198,
+          "w": 26,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 59,
+          "y": 22,
+          "w": 31,
+          "h": 24,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_008.png",
+      "mask": "masks/tile_008.png",
+      "bboxes": [
+        {
+          "x": 204,
+          "y": 89,
+          "w": 35,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 170,
+          "y": 181,
+          "w": 32,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 116,
+          "y": 202,
+          "w": 19,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 13,
+          "y": 115,
+          "w": 34,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 223,
+          "y": 62,
+          "w": 23,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 180,
+          "y": 222,
+          "w": 18,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 220,
+          "y": 74,
+          "w": 21,
+          "h": 25,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_009.png",
+      "mask": "masks/tile_009.png",
+      "bboxes": [
+        {
+          "x": 199,
+          "y": 97,
+          "w": 36,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 99,
+          "y": 74,
+          "w": 34,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 141,
+          "y": 23,
+          "w": 18,
+          "h": 23,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_010.png",
+      "mask": "masks/tile_010.png",
+      "bboxes": [
+        {
+          "x": 126,
+          "y": 93,
+          "w": 24,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 101,
+          "y": 162,
+          "w": 22,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 95,
+          "y": 67,
+          "w": 30,
+          "h": 27,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_011.png",
+      "mask": "masks/tile_011.png",
+      "bboxes": [
+        {
+          "x": 194,
+          "y": 180,
+          "w": 31,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 187,
+          "y": 96,
+          "w": 35,
+          "h": 35,
+          "label": "building"
+        },
+        {
+          "x": 129,
+          "y": 91,
+          "w": 18,
+          "h": 18,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_012.png",
+      "mask": "masks/tile_012.png",
+      "bboxes": [
+        {
+          "x": 167,
+          "y": 66,
+          "w": 35,
+          "h": 19,
+          "label": "building"
+        },
+        {
+          "x": 122,
+          "y": 121,
+          "w": 25,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 42,
+          "y": 83,
+          "w": 29,
+          "h": 27,
+          "label": "building"
+        },
+        {
+          "x": 49,
+          "y": 160,
+          "w": 19,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 189,
+          "y": 55,
+          "w": 34,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 151,
+          "y": 20,
+          "w": 36,
+          "h": 31,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_013.png",
+      "mask": "masks/tile_013.png",
+      "bboxes": [
+        {
+          "x": 149,
+          "y": 203,
+          "w": 23,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 213,
+          "y": 170,
+          "w": 35,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 20,
+          "y": 180,
+          "w": 19,
+          "h": 20,
+          "label": "building"
+        },
+        {
+          "x": 169,
+          "y": 5,
+          "w": 21,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 197,
+          "y": 110,
+          "w": 25,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 178,
+          "y": 93,
+          "w": 24,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 11,
+          "y": 191,
+          "w": 24,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 68,
+          "y": 171,
+          "w": 36,
+          "h": 18,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_014.png",
+      "mask": "masks/tile_014.png",
+      "bboxes": [
+        {
+          "x": 155,
+          "y": 116,
+          "w": 35,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 158,
+          "y": 12,
+          "w": 33,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 200,
+          "y": 77,
+          "w": 29,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 203,
+          "y": 26,
+          "w": 31,
+          "h": 20,
+          "label": "building"
+        },
+        {
+          "x": 107,
+          "y": 114,
+          "w": 33,
+          "h": 19,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_015.png",
+      "mask": "masks/tile_015.png",
+      "bboxes": [
+        {
+          "x": 59,
+          "y": 193,
+          "w": 30,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 138,
+          "y": 66,
+          "w": 35,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 208,
+          "y": 84,
+          "w": 35,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 34,
+          "y": 61,
+          "w": 24,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 46,
+          "y": 63,
+          "w": 24,
+          "h": 27,
+          "label": "building"
+        },
+        {
+          "x": 196,
+          "y": 113,
+          "w": 34,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 131,
+          "y": 115,
+          "w": 35,
+          "h": 34,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_016.png",
+      "mask": "masks/tile_016.png",
+      "bboxes": [
+        {
+          "x": 165,
+          "y": 25,
+          "w": 23,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 85,
+          "y": 83,
+          "w": 19,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 50,
+          "y": 104,
+          "w": 20,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 106,
+          "y": 115,
+          "w": 36,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 175,
+          "y": 35,
+          "w": 23,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 98,
+          "y": 179,
+          "w": 25,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 51,
+          "y": 83,
+          "w": 22,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 207,
+          "y": 147,
+          "w": 25,
+          "h": 23,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_017.png",
+      "mask": "masks/tile_017.png",
+      "bboxes": [
+        {
+          "x": 200,
+          "y": 153,
+          "w": 25,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 30,
+          "y": 212,
+          "w": 19,
+          "h": 28,
+          "label": "building"
+        },
+        {
+          "x": 96,
+          "y": 80,
+          "w": 24,
+          "h": 25,
+          "label": "building"
+        },
+        {
+          "x": 18,
+          "y": 168,
+          "w": 30,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 180,
+          "y": 36,
+          "w": 23,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 199,
+          "y": 53,
+          "w": 32,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 194,
+          "y": 108,
+          "w": 36,
+          "h": 24,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_018.png",
+      "mask": "masks/tile_018.png",
+      "bboxes": [
+        {
+          "x": 98,
+          "y": 184,
+          "w": 27,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 35,
+          "y": 15,
+          "w": 26,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 66,
+          "y": 192,
+          "w": 18,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 207,
+          "y": 160,
+          "w": 29,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 34,
+          "y": 55,
+          "w": 18,
+          "h": 25,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_019.png",
+      "mask": "masks/tile_019.png",
+      "bboxes": [
+        {
+          "x": 176,
+          "y": 59,
+          "w": 24,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 178,
+          "y": 134,
+          "w": 30,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 67,
+          "y": 39,
+          "w": 28,
+          "h": 20,
+          "label": "building"
+        },
+        {
+          "x": 105,
+          "y": 121,
+          "w": 29,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 134,
+          "y": 118,
+          "w": 35,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 186,
+          "y": 210,
+          "w": 30,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 217,
+          "y": 12,
+          "w": 32,
+          "h": 35,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_020.png",
+      "mask": "masks/tile_020.png",
+      "bboxes": [
+        {
+          "x": 122,
+          "y": 92,
+          "w": 19,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 122,
+          "y": 227,
+          "w": 30,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 51,
+          "y": 28,
+          "w": 24,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 105,
+          "y": 205,
+          "w": 27,
+          "h": 24,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_021.png",
+      "mask": "masks/tile_021.png",
+      "bboxes": [
+        {
+          "x": 204,
+          "y": 107,
+          "w": 19,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 161,
+          "y": 140,
+          "w": 34,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 202,
+          "y": 11,
+          "w": 28,
+          "h": 27,
+          "label": "building"
+        },
+        {
+          "x": 61,
+          "y": 38,
+          "w": 27,
+          "h": 28,
+          "label": "building"
+        },
+        {
+          "x": 119,
+          "y": 13,
+          "w": 36,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 152,
+          "y": 169,
+          "w": 30,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 179,
+          "y": 98,
+          "w": 22,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 89,
+          "y": 157,
+          "w": 23,
+          "h": 23,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_022.png",
+      "mask": "masks/tile_022.png",
+      "bboxes": [
+        {
+          "x": 115,
+          "y": 83,
+          "w": 31,
+          "h": 35,
+          "label": "building"
+        },
+        {
+          "x": 26,
+          "y": 38,
+          "w": 27,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 101,
+          "y": 7,
+          "w": 27,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 96,
+          "y": 83,
+          "w": 21,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 102,
+          "y": 144,
+          "w": 22,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 184,
+          "y": 76,
+          "w": 30,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 85,
+          "y": 159,
+          "w": 21,
+          "h": 35,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_023.png",
+      "mask": "masks/tile_023.png",
+      "bboxes": [
+        {
+          "x": 107,
+          "y": 212,
+          "w": 36,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 8,
+          "y": 192,
+          "w": 23,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 107,
+          "y": 68,
+          "w": 18,
+          "h": 21,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_024.png",
+      "mask": "masks/tile_024.png",
+      "bboxes": [
+        {
+          "x": 202,
+          "y": 84,
+          "w": 33,
+          "h": 28,
+          "label": "building"
+        },
+        {
+          "x": 143,
+          "y": 156,
+          "w": 31,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 124,
+          "y": 227,
+          "w": 20,
+          "h": 20,
+          "label": "building"
+        },
+        {
+          "x": 92,
+          "y": 144,
+          "w": 36,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 219,
+          "y": 44,
+          "w": 27,
+          "h": 34,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_025.png",
+      "mask": "masks/tile_025.png",
+      "bboxes": [
+        {
+          "x": 133,
+          "y": 51,
+          "w": 32,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 23,
+          "y": 173,
+          "w": 19,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 197,
+          "y": 103,
+          "w": 28,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 36,
+          "y": 181,
+          "w": 22,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 74,
+          "y": 38,
+          "w": 18,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 7,
+          "y": 176,
+          "w": 30,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 149,
+          "y": 143,
+          "w": 33,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 9,
+          "y": 13,
+          "w": 36,
+          "h": 25,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_026.png",
+      "mask": "masks/tile_026.png",
+      "bboxes": [
+        {
+          "x": 203,
+          "y": 148,
+          "w": 29,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 76,
+          "y": 11,
+          "w": 36,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 79,
+          "y": 20,
+          "w": 27,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 126,
+          "y": 147,
+          "w": 32,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 135,
+          "y": 60,
+          "w": 29,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 148,
+          "y": 100,
+          "w": 25,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 186,
+          "y": 62,
+          "w": 29,
+          "h": 27,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_027.png",
+      "mask": "masks/tile_027.png",
+      "bboxes": [
+        {
+          "x": 70,
+          "y": 82,
+          "w": 26,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 30,
+          "y": 150,
+          "w": 24,
+          "h": 35,
+          "label": "building"
+        },
+        {
+          "x": 175,
+          "y": 37,
+          "w": 24,
+          "h": 27,
+          "label": "building"
+        },
+        {
+          "x": 178,
+          "y": 6,
+          "w": 31,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 183,
+          "y": 186,
+          "w": 34,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 18,
+          "y": 12,
+          "w": 33,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 29,
+          "y": 116,
+          "w": 24,
+          "h": 28,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_028.png",
+      "mask": "masks/tile_028.png",
+      "bboxes": [
+        {
+          "x": 71,
+          "y": 118,
+          "w": 34,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 167,
+          "y": 72,
+          "w": 27,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 171,
+          "y": 121,
+          "w": 26,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 159,
+          "y": 146,
+          "w": 31,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 143,
+          "y": 69,
+          "w": 36,
+          "h": 34,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_029.png",
+      "mask": "masks/tile_029.png",
+      "bboxes": [
+        {
+          "x": 159,
+          "y": 152,
+          "w": 36,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 111,
+          "y": 182,
+          "w": 33,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 142,
+          "y": 61,
+          "w": 18,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 24,
+          "y": 80,
+          "w": 25,
+          "h": 31,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_030.png",
+      "mask": "masks/tile_030.png",
+      "bboxes": [
+        {
+          "x": 141,
+          "y": 168,
+          "w": 21,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 33,
+          "y": 34,
+          "w": 24,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 177,
+          "y": 168,
+          "w": 33,
+          "h": 25,
+          "label": "building"
+        },
+        {
+          "x": 178,
+          "y": 115,
+          "w": 19,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 60,
+          "y": 11,
+          "w": 24,
+          "h": 27,
+          "label": "building"
+        },
+        {
+          "x": 18,
+          "y": 47,
+          "w": 29,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 156,
+          "y": 111,
+          "w": 35,
+          "h": 29,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_031.png",
+      "mask": "masks/tile_031.png",
+      "bboxes": [
+        {
+          "x": 34,
+          "y": 130,
+          "w": 28,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 113,
+          "y": 141,
+          "w": 20,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 124,
+          "y": 50,
+          "w": 25,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 85,
+          "y": 199,
+          "w": 29,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 38,
+          "y": 198,
+          "w": 21,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 23,
+          "y": 212,
+          "w": 31,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 15,
+          "y": 190,
+          "w": 22,
+          "h": 29,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_032.png",
+      "mask": "masks/tile_032.png",
+      "bboxes": [
+        {
+          "x": 27,
+          "y": 6,
+          "w": 24,
+          "h": 27,
+          "label": "building"
+        },
+        {
+          "x": 109,
+          "y": 45,
+          "w": 31,
+          "h": 25,
+          "label": "building"
+        },
+        {
+          "x": 6,
+          "y": 54,
+          "w": 31,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 107,
+          "y": 227,
+          "w": 31,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 210,
+          "y": 167,
+          "w": 27,
+          "h": 24,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_033.png",
+      "mask": "masks/tile_033.png",
+      "bboxes": [
+        {
+          "x": 127,
+          "y": 32,
+          "w": 25,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 181,
+          "y": 15,
+          "w": 24,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 172,
+          "y": 63,
+          "w": 34,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 132,
+          "y": 22,
+          "w": 32,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 39,
+          "y": 24,
+          "w": 21,
+          "h": 20,
+          "label": "building"
+        },
+        {
+          "x": 80,
+          "y": 133,
+          "w": 30,
+          "h": 26,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_034.png",
+      "mask": "masks/tile_034.png",
+      "bboxes": [
+        {
+          "x": 205,
+          "y": 140,
+          "w": 18,
+          "h": 35,
+          "label": "building"
+        },
+        {
+          "x": 26,
+          "y": 125,
+          "w": 35,
+          "h": 35,
+          "label": "building"
+        },
+        {
+          "x": 171,
+          "y": 208,
+          "w": 34,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 48,
+          "y": 44,
+          "w": 21,
+          "h": 20,
+          "label": "building"
+        },
+        {
+          "x": 130,
+          "y": 116,
+          "w": 23,
+          "h": 36,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_035.png",
+      "mask": "masks/tile_035.png",
+      "bboxes": [
+        {
+          "x": 184,
+          "y": 162,
+          "w": 33,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 144,
+          "y": 191,
+          "w": 31,
+          "h": 25,
+          "label": "building"
+        },
+        {
+          "x": 71,
+          "y": 145,
+          "w": 34,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 62,
+          "y": 47,
+          "w": 29,
+          "h": 27,
+          "label": "building"
+        },
+        {
+          "x": 195,
+          "y": 30,
+          "w": 30,
+          "h": 18,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_036.png",
+      "mask": "masks/tile_036.png",
+      "bboxes": [
+        {
+          "x": 110,
+          "y": 221,
+          "w": 30,
+          "h": 20,
+          "label": "building"
+        },
+        {
+          "x": 146,
+          "y": 191,
+          "w": 34,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 178,
+          "y": 209,
+          "w": 36,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 156,
+          "y": 118,
+          "w": 34,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 153,
+          "y": 68,
+          "w": 31,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 73,
+          "y": 233,
+          "w": 27,
+          "h": 18,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_037.png",
+      "mask": "masks/tile_037.png",
+      "bboxes": [
+        {
+          "x": 56,
+          "y": 221,
+          "w": 18,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 122,
+          "y": 30,
+          "w": 24,
+          "h": 19,
+          "label": "building"
+        },
+        {
+          "x": 13,
+          "y": 82,
+          "w": 31,
+          "h": 19,
+          "label": "building"
+        },
+        {
+          "x": 200,
+          "y": 184,
+          "w": 31,
+          "h": 28,
+          "label": "building"
+        },
+        {
+          "x": 215,
+          "y": 37,
+          "w": 29,
+          "h": 30,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_038.png",
+      "mask": "masks/tile_038.png",
+      "bboxes": [
+        {
+          "x": 220,
+          "y": 86,
+          "w": 27,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 174,
+          "y": 69,
+          "w": 34,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 59,
+          "y": 112,
+          "w": 21,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 53,
+          "y": 187,
+          "w": 31,
+          "h": 23,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_039.png",
+      "mask": "masks/tile_039.png",
+      "bboxes": [
+        {
+          "x": 116,
+          "y": 196,
+          "w": 22,
+          "h": 28,
+          "label": "building"
+        },
+        {
+          "x": 102,
+          "y": 202,
+          "w": 26,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 171,
+          "y": 211,
+          "w": 26,
+          "h": 35,
+          "label": "building"
+        },
+        {
+          "x": 133,
+          "y": 186,
+          "w": 31,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 109,
+          "y": 186,
+          "w": 31,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 152,
+          "y": 14,
+          "w": 29,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 83,
+          "y": 12,
+          "w": 32,
+          "h": 31,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_040.png",
+      "mask": "masks/tile_040.png",
+      "bboxes": [
+        {
+          "x": 35,
+          "y": 178,
+          "w": 22,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 145,
+          "y": 76,
+          "w": 23,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 81,
+          "y": 15,
+          "w": 29,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 39,
+          "y": 152,
+          "w": 34,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 199,
+          "y": 128,
+          "w": 24,
+          "h": 27,
+          "label": "building"
+        },
+        {
+          "x": 189,
+          "y": 5,
+          "w": 23,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 154,
+          "y": 46,
+          "w": 25,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 154,
+          "y": 95,
+          "w": 27,
+          "h": 28,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_041.png",
+      "mask": "masks/tile_041.png",
+      "bboxes": [
+        {
+          "x": 173,
+          "y": 98,
+          "w": 31,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 31,
+          "y": 85,
+          "w": 31,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 170,
+          "y": 196,
+          "w": 28,
+          "h": 31,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_042.png",
+      "mask": "masks/tile_042.png",
+      "bboxes": [
+        {
+          "x": 57,
+          "y": 20,
+          "w": 26,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 61,
+          "y": 146,
+          "w": 31,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 190,
+          "y": 54,
+          "w": 25,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 211,
+          "y": 205,
+          "w": 28,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 148,
+          "y": 192,
+          "w": 18,
+          "h": 18,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_043.png",
+      "mask": "masks/tile_043.png",
+      "bboxes": [
+        {
+          "x": 46,
+          "y": 91,
+          "w": 31,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 65,
+          "y": 214,
+          "w": 32,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 208,
+          "y": 160,
+          "w": 24,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 43,
+          "y": 94,
+          "w": 24,
+          "h": 20,
+          "label": "building"
+        },
+        {
+          "x": 191,
+          "y": 84,
+          "w": 33,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 50,
+          "y": 70,
+          "w": 20,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 131,
+          "y": 97,
+          "w": 29,
+          "h": 35,
+          "label": "building"
+        },
+        {
+          "x": 36,
+          "y": 196,
+          "w": 34,
+          "h": 21,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_044.png",
+      "mask": "masks/tile_044.png",
+      "bboxes": [
+        {
+          "x": 160,
+          "y": 92,
+          "w": 30,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 62,
+          "y": 190,
+          "w": 23,
+          "h": 20,
+          "label": "building"
+        },
+        {
+          "x": 53,
+          "y": 205,
+          "w": 18,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 167,
+          "y": 29,
+          "w": 25,
+          "h": 28,
+          "label": "building"
+        },
+        {
+          "x": 127,
+          "y": 194,
+          "w": 21,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 218,
+          "y": 71,
+          "w": 33,
+          "h": 23,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_045.png",
+      "mask": "masks/tile_045.png",
+      "bboxes": [
+        {
+          "x": 158,
+          "y": 55,
+          "w": 28,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 58,
+          "y": 34,
+          "w": 23,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 199,
+          "y": 57,
+          "w": 34,
+          "h": 28,
+          "label": "building"
+        },
+        {
+          "x": 204,
+          "y": 24,
+          "w": 19,
+          "h": 30,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_046.png",
+      "mask": "masks/tile_046.png",
+      "bboxes": [
+        {
+          "x": 188,
+          "y": 189,
+          "w": 31,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 145,
+          "y": 106,
+          "w": 35,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 169,
+          "y": 76,
+          "w": 36,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 143,
+          "y": 196,
+          "w": 29,
+          "h": 25,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_047.png",
+      "mask": "masks/tile_047.png",
+      "bboxes": [
+        {
+          "x": 180,
+          "y": 189,
+          "w": 19,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 170,
+          "y": 53,
+          "w": 21,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 72,
+          "y": 221,
+          "w": 19,
+          "h": 30,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_048.png",
+      "mask": "masks/tile_048.png",
+      "bboxes": [
+        {
+          "x": 46,
+          "y": 199,
+          "w": 34,
+          "h": 35,
+          "label": "building"
+        },
+        {
+          "x": 142,
+          "y": 46,
+          "w": 34,
+          "h": 19,
+          "label": "building"
+        },
+        {
+          "x": 84,
+          "y": 182,
+          "w": 26,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 98,
+          "y": 179,
+          "w": 31,
+          "h": 19,
+          "label": "building"
+        },
+        {
+          "x": 216,
+          "y": 97,
+          "w": 20,
+          "h": 26,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_049.png",
+      "mask": "masks/tile_049.png",
+      "bboxes": [
+        {
+          "x": 43,
+          "y": 46,
+          "w": 35,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 224,
+          "y": 53,
+          "w": 19,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 6,
+          "y": 121,
+          "w": 31,
+          "h": 19,
+          "label": "building"
+        },
+        {
+          "x": 103,
+          "y": 115,
+          "w": 36,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 24,
+          "y": 21,
+          "w": 19,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 181,
+          "y": 166,
+          "w": 18,
+          "h": 27,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_050.png",
+      "mask": "masks/tile_050.png",
+      "bboxes": [
+        {
+          "x": 169,
+          "y": 135,
+          "w": 22,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 18,
+          "y": 18,
+          "w": 29,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 34,
+          "y": 68,
+          "w": 28,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 9,
+          "y": 159,
+          "w": 30,
+          "h": 28,
+          "label": "building"
+        },
+        {
+          "x": 161,
+          "y": 184,
+          "w": 23,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 123,
+          "y": 186,
+          "w": 30,
+          "h": 27,
+          "label": "building"
+        },
+        {
+          "x": 31,
+          "y": 143,
+          "w": 36,
+          "h": 27,
+          "label": "building"
+        },
+        {
+          "x": 186,
+          "y": 40,
+          "w": 28,
+          "h": 26,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_051.png",
+      "mask": "masks/tile_051.png",
+      "bboxes": [
+        {
+          "x": 151,
+          "y": 68,
+          "w": 21,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 220,
+          "y": 55,
+          "w": 18,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 59,
+          "y": 52,
+          "w": 19,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 135,
+          "y": 201,
+          "w": 36,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 15,
+          "y": 216,
+          "w": 35,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 166,
+          "y": 150,
+          "w": 21,
+          "h": 27,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_052.png",
+      "mask": "masks/tile_052.png",
+      "bboxes": [
+        {
+          "x": 214,
+          "y": 136,
+          "w": 30,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 107,
+          "y": 200,
+          "w": 26,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 28,
+          "y": 70,
+          "w": 30,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 36,
+          "y": 42,
+          "w": 23,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 14,
+          "y": 10,
+          "w": 26,
+          "h": 25,
+          "label": "building"
+        },
+        {
+          "x": 87,
+          "y": 46,
+          "w": 33,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 183,
+          "y": 226,
+          "w": 18,
+          "h": 25,
+          "label": "building"
+        },
+        {
+          "x": 12,
+          "y": 221,
+          "w": 22,
+          "h": 23,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_053.png",
+      "mask": "masks/tile_053.png",
+      "bboxes": [
+        {
+          "x": 175,
+          "y": 141,
+          "w": 29,
+          "h": 24,
+          "label": "building"
+        },
+        {
+          "x": 202,
+          "y": 9,
+          "w": 27,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 190,
+          "y": 211,
+          "w": 34,
+          "h": 22,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_054.png",
+      "mask": "masks/tile_054.png",
+      "bboxes": [
+        {
+          "x": 66,
+          "y": 47,
+          "w": 36,
+          "h": 19,
+          "label": "building"
+        },
+        {
+          "x": 109,
+          "y": 199,
+          "w": 31,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 212,
+          "y": 109,
+          "w": 25,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 20,
+          "y": 214,
+          "w": 19,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 80,
+          "y": 94,
+          "w": 18,
+          "h": 33,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_055.png",
+      "mask": "masks/tile_055.png",
+      "bboxes": [
+        {
+          "x": 145,
+          "y": 116,
+          "w": 24,
+          "h": 28,
+          "label": "building"
+        },
+        {
+          "x": 111,
+          "y": 36,
+          "w": 29,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 180,
+          "y": 145,
+          "w": 34,
+          "h": 29,
+          "label": "building"
+        },
+        {
+          "x": 77,
+          "y": 164,
+          "w": 30,
+          "h": 20,
+          "label": "building"
+        },
+        {
+          "x": 73,
+          "y": 161,
+          "w": 34,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 45,
+          "y": 207,
+          "w": 23,
+          "h": 18,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_056.png",
+      "mask": "masks/tile_056.png",
+      "bboxes": [
+        {
+          "x": 208,
+          "y": 55,
+          "w": 26,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 134,
+          "y": 138,
+          "w": 29,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 61,
+          "y": 69,
+          "w": 21,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 52,
+          "y": 53,
+          "w": 27,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 28,
+          "y": 128,
+          "w": 27,
+          "h": 20,
+          "label": "building"
+        },
+        {
+          "x": 181,
+          "y": 6,
+          "w": 22,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 181,
+          "y": 170,
+          "w": 36,
+          "h": 28,
+          "label": "building"
+        },
+        {
+          "x": 59,
+          "y": 5,
+          "w": 29,
+          "h": 29,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_057.png",
+      "mask": "masks/tile_057.png",
+      "bboxes": [
+        {
+          "x": 122,
+          "y": 165,
+          "w": 31,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 28,
+          "y": 4,
+          "w": 28,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 88,
+          "y": 161,
+          "w": 35,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 5,
+          "y": 25,
+          "w": 24,
+          "h": 18,
+          "label": "building"
+        },
+        {
+          "x": 107,
+          "y": 35,
+          "w": 21,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 203,
+          "y": 50,
+          "w": 34,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 41,
+          "y": 139,
+          "w": 29,
+          "h": 30,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_058.png",
+      "mask": "masks/tile_058.png",
+      "bboxes": [
+        {
+          "x": 175,
+          "y": 86,
+          "w": 24,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 78,
+          "y": 81,
+          "w": 26,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 88,
+          "y": 119,
+          "w": 35,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 128,
+          "y": 41,
+          "w": 28,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 99,
+          "y": 167,
+          "w": 18,
+          "h": 21,
+          "label": "building"
+        },
+        {
+          "x": 205,
+          "y": 54,
+          "w": 31,
+          "h": 23,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_059.png",
+      "mask": "masks/tile_059.png",
+      "bboxes": [
+        {
+          "x": 46,
+          "y": 17,
+          "w": 34,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 110,
+          "y": 93,
+          "w": 26,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 78,
+          "y": 144,
+          "w": 29,
+          "h": 22,
+          "label": "building"
+        },
+        {
+          "x": 144,
+          "y": 21,
+          "w": 24,
+          "h": 29,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_060.png",
+      "mask": "masks/tile_060.png",
+      "bboxes": [
+        {
+          "x": 147,
+          "y": 159,
+          "w": 28,
+          "h": 33,
+          "label": "building"
+        },
+        {
+          "x": 23,
+          "y": 128,
+          "w": 34,
+          "h": 26,
+          "label": "building"
+        },
+        {
+          "x": 34,
+          "y": 40,
+          "w": 35,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 37,
+          "y": 8,
+          "w": 36,
+          "h": 33,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_061.png",
+      "mask": "masks/tile_061.png",
+      "bboxes": [
+        {
+          "x": 77,
+          "y": 46,
+          "w": 32,
+          "h": 23,
+          "label": "building"
+        },
+        {
+          "x": 15,
+          "y": 49,
+          "w": 29,
+          "h": 20,
+          "label": "building"
+        },
+        {
+          "x": 37,
+          "y": 204,
+          "w": 18,
+          "h": 19,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_062.png",
+      "mask": "masks/tile_062.png",
+      "bboxes": [
+        {
+          "x": 83,
+          "y": 18,
+          "w": 22,
+          "h": 31,
+          "label": "building"
+        },
+        {
+          "x": 53,
+          "y": 202,
+          "w": 33,
+          "h": 19,
+          "label": "building"
+        },
+        {
+          "x": 91,
+          "y": 177,
+          "w": 18,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 144,
+          "y": 193,
+          "w": 24,
+          "h": 36,
+          "label": "building"
+        },
+        {
+          "x": 92,
+          "y": 146,
+          "w": 26,
+          "h": 34,
+          "label": "building"
+        },
+        {
+          "x": 62,
+          "y": 170,
+          "w": 25,
+          "h": 35,
+          "label": "building"
+        }
+      ]
+    },
+    {
+      "image": "tiles/tile_063.png",
+      "mask": "masks/tile_063.png",
+      "bboxes": [
+        {
+          "x": 82,
+          "y": 116,
+          "w": 26,
+          "h": 30,
+          "label": "building"
+        },
+        {
+          "x": 8,
+          "y": 16,
+          "w": 23,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 78,
+          "y": 167,
+          "w": 33,
+          "h": 27,
+          "label": "building"
+        },
+        {
+          "x": 131,
+          "y": 145,
+          "w": 23,
+          "h": 25,
+          "label": "building"
+        },
+        {
+          "x": 211,
+          "y": 154,
+          "w": 35,
+          "h": 28,
+          "label": "building"
+        },
+        {
+          "x": 139,
+          "y": 144,
+          "w": 26,
+          "h": 25,
+          "label": "building"
+        },
+        {
+          "x": 96,
+          "y": 125,
+          "w": 25,
+          "h": 32,
+          "label": "building"
+        },
+        {
+          "x": 90,
+          "y": 170,
+          "w": 32,
+          "h": 20,
+          "label": "building"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "tool": "GIMP 2.10 (Script-Fu)",
+    "pipeline": "load \u2192 levels stretch \u2192 unsharp \u2192 flatten \u2192 export",
+    "task": "AI building segmentation dataset prep"
+  }
+}

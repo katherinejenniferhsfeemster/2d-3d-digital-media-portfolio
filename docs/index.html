@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Katherine Feemster — 2D &amp; 3D Digital Media Specialist</title>
+  <meta name="description" content="Senior 2D &amp; 3D digital media portfolio — GIMP, Inkscape, Krita, Libresprite, Blender and Godot asset pipelines generated from Python. Reproducible, code-driven workflows for AI research." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-inner">
+    <a href="#top" class="brand">
+      <span class="brand-mark" aria-hidden="true">◐</span>
+      <span>Katherine Feemster</span>
+    </a>
+    <nav>
+      <a href="#work">Work</a>
+      <a href="#code">Code</a>
+      <a href="#stack">Stack</a>
+      <a href="#about">About</a>
+      <a class="btn btn-outline" href="https://github.com/katherinejenniferhsfeemster/2d-3d-digital-media-portfolio" target="_blank" rel="noopener">GitHub ↗</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+  <section class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-copy">
+        <p class="eyebrow">Digital media · GIMP · Inkscape · Krita · Libresprite · Blender · Godot</p>
+        <h1>I ship the <span class="accent">asset pipelines</span> that turn open-source media tools into AI-ready datasets.</h1>
+        <p class="lede">
+          A decade across <b>GIMP, Inkscape, Krita, Libresprite, Blender and Godot</b>. Every scene, icon, sprite and render in this portfolio is generated from Python — because assets you can diff in git are assets you can trust in CI.
+        </p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="#work">See the work</a>
+          <a class="btn btn-ghost" href="https://github.com/katherinejenniferhsfeemster/2d-3d-digital-media-portfolio" target="_blank" rel="noopener">Browse the repo</a>
+        </div>
+      </div>
+      <figure class="hero-art">
+        <img src="img/godot_preview.png" alt="Godot 4 asset viewer — a 1280 by 720 grid showing painted Krita scenes, Blender iso renders, GIMP segmentation tiles and Libresprite creature strips side by side" />
+        <figcaption>Godot 4 viewer loading every artefact from the other five cases</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="strip">
+    <div class="wrap strip-inner">
+      <span>GIMP 2.10</span>
+      <span>Inkscape 1.3</span>
+      <span>Krita 5.2</span>
+      <span>Libresprite</span>
+      <span>Blender 4.x</span>
+      <span>Godot 4</span>
+      <span>Script-Fu</span>
+      <span>Lua</span>
+      <span>Python · bpy</span>
+      <span>GDScript</span>
+      <span>SVG</span>
+      <span>COCO</span>
+    </div>
+  </section>
+
+  <section id="work" class="section">
+    <div class="wrap">
+      <h2>Selected cases</h2>
+      <p class="section-lede">Six cases, one per tool. Each emits a real native project file — a Script-Fu `.scm`, an Inkscape CLI script, a Krita Python plugin, a Libresprite Lua script, a bpy render script, and a full Godot 4 project — plus the deterministic raster output so the whole portfolio renders without any tool installed.</p>
+
+      <div class="cards">
+
+        <article class="card feature">
+          <div class="card-media">
+            <img src="img/krita_preview.png" alt="Twelve painted Krita scenes arranged in a 4 by 3 grid, each with a blue sky, mountain silhouettes, and three colorful creatures on a brown ground" />
+          </div>
+          <div class="card-body">
+            <p class="tag">Krita 5.2 · Python plugin · .kra</p>
+            <h3>Painted scene layer exporter</h3>
+            <p>A Krita Python plugin that walks the paint graph, hides every layer but one in turn, and exports per-layer masks + a COCO-style <code>labels.json</code>. Twelve seeded scenes ship as real <code>.kra</code> archives so the artefact opens in Krita unchanged.</p>
+            <p class="meta">Krita 5.2 · Python plugin API · 12 scenes · per-layer PNG masks · COCO labels</p>
+            <a class="link" href="https://github.com/katherinejenniferhsfeemster/2d-3d-digital-media-portfolio/tree/main/cases/krita" target="_blank" rel="noopener">Read the case study →</a>
+          </div>
+        </article>
+
+        <article class="card feature reverse">
+          <div class="card-media">
+            <img src="img/blender_preview.png" alt="Eight frames from a Blender procedural scene showing isometric voxel blocks in cream tones with subtle shading" />
+          </div>
+          <div class="card-body">
+            <p class="tag">Blender 4.x · bpy · COCO</p>
+            <h3>Headless dataset render</h3>
+            <p>A <code>bpy</code> script builds a 20-object procedural scene with Cycles + transparent film and renders 48 frames at 960 × 540. <code>world_to_camera_view()</code> projects every object centre into pixel space for per-frame bbox + class annotations — 960 entries total.</p>
+            <p class="meta">Blender 4.x · Cycles · 48 frames · 960 COCO annotations · runs headless in CI</p>
+            <a class="link" href="https://github.com/katherinejenniferhsfeemster/2d-3d-digital-media-portfolio/tree/main/cases/blender" target="_blank" rel="noopener">Read the case study →</a>
+          </div>
+        </article>
+
+        <div class="grid-3">
+          <article class="card">
+            <div class="card-body">
+              <p class="tag">GIMP 2.10 · Script-Fu</p>
+              <h3>Batch segmentation dataset</h3>
+              <p>Script-Fu batch that loads 64 overhead tiles, runs <code>gimp-levels-stretch</code> and <code>plug-in-unsharp-mask</code>, flattens, and exports PNG. Ships with binary masks + per-tile bbox JSON for AI building segmentation.</p>
+              <a class="link" href="https://github.com/katherinejenniferhsfeemster/2d-3d-digital-media-portfolio/tree/main/cases/gimp" target="_blank" rel="noopener">Case study →</a>
+            </div>
+          </article>
+
+          <article class="card">
+            <div class="card-body">
+              <p class="tag">Inkscape 1.3 · CLI actions</p>
+              <h3>Parametric pictogram set</h3>
+              <p>Twenty-four SVG pictograms (dataset, model, layer, mask, render, …) in the portfolio's teal + amber palette, exported at 2× DPI via <code>inkscape --actions=export-type:png</code>.</p>
+              <a class="link" href="https://github.com/katherinejenniferhsfeemster/2d-3d-digital-media-portfolio/tree/main/cases/inkscape" target="_blank" rel="noopener">Case study →</a>
+            </div>
+          </article>
+
+          <article class="card accent-card">
+            <div class="card-body">
+              <p class="tag">Libresprite · Lua · atlas</p>
+              <h3>Creature sprite atlas</h3>
+              <p>Lua CLI script packs 32 creatures × 4 idle frames into a single 512 × 256 atlas with Aseprite-compatible JSON Hash manifest, including <code>frameTags</code> for each creature's loop.</p>
+              <a class="link" href="https://github.com/katherinejenniferhsfeemster/2d-3d-digital-media-portfolio/tree/main/cases/libresprite" target="_blank" rel="noopener">Case study →</a>
+            </div>
+          </article>
+        </div>
+
+        <article class="card feature">
+          <div class="card-media">
+            <img src="img/libresprite_atlas.png" alt="32 pixel-art creatures arranged in a 4x upscaled grid, each in a 4-frame idle animation with bob and blink" />
+          </div>
+          <div class="card-body">
+            <p class="tag">Libresprite · 32 creatures × 4 frames</p>
+            <h3>Animated sprite atlas — poster view</h3>
+            <p>The packed atlas nearest-neighbour-scaled 4× so the pixel grid reads. Every frame is seeded, so the same 128 sprites land in the same atlas slots on every CI run — diffs are readable, atlases are drop-in replaceable.</p>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <section id="code" class="section dark">
+    <div class="wrap">
+      <h2>Code you can actually run</h2>
+      <p class="section-lede">Every artefact on this page is regenerated by GitHub Actions on every push — nothing is pre-baked. Clone the repo, run one script, and get identical tiles, icons, scenes, atlases, 3D frames and a Godot viewer.</p>
+
+      <div class="code-grid">
+        <div class="code-card">
+          <h4>GIMP — batch segmentation dataset</h4>
+          <pre><code>python3 src/build_gimp_case.py</code></pre>
+          <p>Writes 64 tiles + masks, <code>manifest.json</code>, and the <code>batch.scm</code> Script-Fu file that GIMP would run in headless mode.</p>
+        </div>
+        <div class="code-card">
+          <h4>Inkscape — pictogram set</h4>
+          <pre><code>python3 src/build_inkscape_case.py</code></pre>
+          <p>Emits 24 parametric SVGs, a 2× PNG contact sheet, and <code>render.sh</code> that shells out to <code>inkscape --actions</code>.</p>
+        </div>
+        <div class="code-card">
+          <h4>Krita — painted scenes + plugin</h4>
+          <pre><code>python3 src/build_krita_case.py</code></pre>
+          <p>Writes 12 real <code>.kra</code> archives, merged renders, L-mode masks, per-scene COCO labels, and the Krita Python plugin source.</p>
+        </div>
+        <div class="code-card">
+          <h4>Libresprite — creature atlas</h4>
+          <pre><code>python3 src/build_libresprite_case.py</code></pre>
+          <p>Packs 128 frames into a single atlas, writes Aseprite-compatible <code>atlas.json</code> with <code>frameTags</code>, and saves the Lua CLI script.</p>
+        </div>
+        <div class="code-card">
+          <h4>Blender — headless dataset</h4>
+          <pre><code>python3 src/build_blender_case.py</code></pre>
+          <p>Produces 48 frames + masks + <code>coco.json</code> (960 annotations) and ships <code>render_dataset.py</code>, the real <code>bpy</code> entrypoint.</p>
+        </div>
+        <div class="code-card">
+          <h4>Godot — unified asset viewer</h4>
+          <pre><code>python3 src/build_godot_case.py</code></pre>
+          <p>Generates a full Godot 4 project under <code>cases/godot/viewer/</code> — <code>project.godot</code>, <code>main.tscn</code>, <code>main.gd</code> — that loads every PNG from the other five cases.</p>
+        </div>
+      </div>
+
+      <div style="margin-top: 36px;">
+        <figure class="hero-art" style="background: #0F1A1F; padding: 22px;">
+          <img src="img/inkscape_sheet.png" alt="Twenty-four teal-and-amber pictograms on a paper background in a 6 by 4 grid" />
+          <figcaption style="color: #B8BFC4;">Inkscape pictogram set — 24 two-colour marks generated from a 150-line Python function and rasterized through the CLI action API.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section id="stack" class="section">
+    <div class="wrap">
+      <h2>Stack</h2>
+      <div class="stack-grid">
+        <div><h4>GIMP 2.10</h4><p>Script-Fu batch pipelines, TinyScheme, headless <code>-i -b</code> invocation, Python-Fu when the team prefers. Deterministic PNG exports for AI dataset prep.</p></div>
+        <div><h4>Inkscape 1.3</h4><p>CLI actions API (<code>--actions=export-type:png</code>), parametric SVG generation, 2× DPI rasterization, palette-locked pictograms for product and research UIs.</p></div>
+        <div><h4>Krita 5.2</h4><p>Python plugin API (PyKrita), paint-graph walking, per-layer mask export, real <code>.kra</code> OpenRaster archive authoring, COCO-style label emission.</p></div>
+        <div><h4>Libresprite</h4><p>Lua scripting (Aseprite-compatible), atlas packing, JSON Hash manifests with <code>frameTags</code>, animation-ready assets for Godot, Phaser, Unity, PixiJS.</p></div>
+        <div><h4>Blender 4.x</h4><p><code>bpy</code> Python library, Cycles rendering, procedural scene graphs, <code>world_to_camera_view</code> for 2D/3D annotation, headless CI pipelines.</p></div>
+        <div><h4>Godot 4 &amp; CI</h4><p>GDScript, <code>DirAccess</code> asset loaders, <code>--headless</code> runtime, GitHub Actions regenerating every artefact on push. Pillow + cairosvg as the universal rasterizer.</p></div>
+      </div>
+      <figure class="hero-art" style="margin-top: 32px;">
+        <img src="img/gimp_preview.png" alt="64-tile GIMP segmentation contact sheet — 8 columns by 8 rows of small procedural satellite-like scenes with building bboxes" />
+        <figcaption>GIMP batch output — 64 tiles prepped by the Script-Fu pipeline in a single 8×8 sheet.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section id="about" class="section about">
+    <div class="wrap about-inner">
+      <div>
+        <h2>About</h2>
+        <p>I'm a senior 2D &amp; 3D digital media specialist shipping cross-tool asset pipelines — most recently focused on dataset generation and labelling workflows for AI research programs. I care about reproducible artefacts (diff-first, editor-second), native scripting over UI automation, and pipelines that produce the same assets a year from now.</p>
+        <p>Open to remote and contract engagements in digital media, asset pipelines, or research-facing tooling. The repository linked below is the living portfolio companion to my CV.</p>
+        <div class="cta-row">
+          <a class="btn btn-primary" href="https://github.com/katherinejenniferhsfeemster/2d-3d-digital-media-portfolio" target="_blank" rel="noopener">Portfolio on GitHub</a>
+          <a class="btn btn-ghost" href="https://github.com/katherinejenniferhsfeemster" target="_blank" rel="noopener">@katherinejenniferhsfeemster</a>
+        </div>
+      </div>
+      <aside class="side-card">
+        <h4>At a glance</h4>
+        <ul>
+          <li>Six FOSS tools — GIMP, Inkscape, Krita, Libresprite, Blender, Godot</li>
+          <li>Script-Fu, Lua, Python, GDScript, SVG</li>
+          <li>Every artefact is regenerated in CI</li>
+          <li>64 tiles · 24 icons · 12 scenes · 32 sprites · 48 renders · 1 viewer</li>
+        </ul>
+      </aside>
+    </div>
+  </section>
+
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-inner">
+    <span>© 2026 Katherine Feemster. Built with six FOSS media tools and a lot of Python.</span>
+    <a href="https://github.com/katherinejenniferhsfeemster/2d-3d-digital-media-portfolio" target="_blank" rel="noopener">Source ↗</a>
+  </div>
+</footer>
+
+</body>
+</html>

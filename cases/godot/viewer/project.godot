@@ -1,0 +1,21 @@
+; Engine configuration file.
+; Generated for 2d-3d-digital-media-portfolio viewer.
+
+config_version=5
+
+[application]
+
+config/name="Asset Viewer"
+run/main_scene="res://main.tscn"
+config/features=PackedStringArray("4.2", "GL Compatibility")
+config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+environment/defaults/default_clear_color=Color(0.968, 0.956, 0.929, 1)

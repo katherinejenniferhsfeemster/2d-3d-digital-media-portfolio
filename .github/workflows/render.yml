@@ -1,0 +1,35 @@
+name: render
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcairo2
+          pip install pillow cairosvg
+      - name: Regenerate all assets
+        run: python3 src/run_all.py
+      - name: Sync docs previews
+        run: |
+          cp assets/godot/preview.png     docs/img/godot_preview.png
+          cp assets/krita/preview.png     docs/img/krita_preview.png
+          cp assets/blender/preview.png   docs/img/blender_preview.png
+          cp assets/libresprite/poster.png docs/img/libresprite_atlas.png
+          cp assets/inkscape/icons_sheet.png docs/img/inkscape_sheet.png
+          cp assets/gimp/preview.png      docs/img/gimp_preview.png
+      - name: Upload a preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: docs-previews
+          path: docs/img/
