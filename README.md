@@ -2,6 +2,8 @@
 
 # 2D & 3D Digital Media Portfolio
 
+**by Katherine Feemster**
+
 ### Senior 2D & 3D Digital Media Specialist · GIMP · Inkscape · Krita · Libresprite · Blender · Godot
 
 [🌐 **Live portfolio site**](https://katherinejenniferhsfeemster.github.io/2d-3d-digital-media-portfolio/) · [GitHub repo](https://github.com/katherinejenniferhsfeemster/2d-3d-digital-media-portfolio)
@@ -98,6 +100,8 @@ Open to remote and contract engagements. This repository is the living portfolio
 ---
 
 ## Contact
+
+**Katherine Feemster**
 
 - GitHub — [@katherinejenniferhsfeemster](https://github.com/katherinejenniferhsfeemster)
 - Live site — [katherinejenniferhsfeemster.github.io/2d-3d-digital-media-portfolio](https://katherinejenniferhsfeemster.github.io/2d-3d-digital-media-portfolio/)
